@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Hammad Siddique. I'm an aspiring Full Stack Developer currently at the frontend foundation stage. I build and redesign real websites to sharpen my skills and have already redesigned 3 live websites  Visa Hosting, Hadia Tech and Devnestix. Right now I'm learning HTML, CSS and JavaScript, with React, Node.js and databases next on my roadmap. I believe in learning by building, not just watching tutorials, and I'm open to collaborations, feedback and opportunities.<br>
 
 
@@ -18,4 +18,4 @@ Hi, I'm Hammad Siddique. I'm an aspiring Full Stack Developer currently at the f
 ---
 [![](https://visitcount.itsvg.in/api?id=hammad-bin-siddique&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
