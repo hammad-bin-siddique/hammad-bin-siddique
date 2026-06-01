@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Hey, I'm Hammad Siddique 👋
+# Hey, I'm Hammad Siddique 
 
 **Aspiring Full Stack Developer · Frontend Foundation Stage · Building in Public**
 
@@ -70,7 +70,7 @@ I also run **[Code Cove](https://instagram.com/cove.code)** — a developer cont
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=hammad-bin-siddique&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
@@ -79,19 +79,6 @@ I also run **[Code Cove](https://instagram.com/cove.code)** — a developer cont
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=hammad-bin-siddique&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 📈 Current Focus
-
-```
-✅  JavaScript Fundamentals  ████████████████░░░░  80%
-🔄  JS Projects & Practice   ████████████░░░░░░░░  60%
-🔜  React                    ░░░░░░░░░░░░░░░░░░░░   0%
-🔜  Node.js                  ░░░░░░░░░░░░░░░░░░░░   0%
-```
-
----
 
 ## ✍️ Dev Quote
 
